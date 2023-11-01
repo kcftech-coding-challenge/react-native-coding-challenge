@@ -12,7 +12,7 @@ Create a simple mobile app that displays a list of items retrieved from a public
 2. Implement a search bar to filter the items based on their attributes (e.g., searching by title).
 3. Allow the user to click on an item to view more details.
 4. Implement pagination to load more items as the user scrolls.
-5. Allow the user to reate a new item that gets added to the list. It's okay if the API does not support adding new items, in which case you can choose to do it locally. The form used to create the item should include more than 2 unique types of fields. The form should also contain validation.
+5. Allow the user to reate a new item that gets added to the list. If the API does not support adding new items, you can choose to do it locally. The form used to create the item should include more than 2 unique types of fields and each field as well as the entire form should contain proper validation.
 
 ## Requirements
 
