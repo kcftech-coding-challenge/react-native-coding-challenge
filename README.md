@@ -1,3 +1,7 @@
+# How to Run ?
+
+Just open terminal or cmd in root and do yarn install and run yarn run android.
+
 # Coding Challenge - React Native
 
 ## Objective
